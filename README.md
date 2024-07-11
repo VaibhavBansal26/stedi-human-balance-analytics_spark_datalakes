@@ -34,7 +34,7 @@ Accelerometer: 40981
 
 ![Dexcription](./images/accelerometer_trusted.png)
 
-Step Trainer : 40981
+Step Trainer : 14460
 
 ![Dexcription](./images/step_trainer_trusted.png)
 
@@ -46,11 +46,11 @@ Customer Trusted (table that shows no blank shareWithResearchAsOfDate row): Empt
 
 **Curated Zone**
 
-Customer: 482
+Customer Curated: 482
 
 ![Dexcription](./images/customer_curated.png)
 
-Accelerometer: 40981
+Machine Learning Curated: 43681
 
 ![Dexcription](./images/step_trainer_curated.png)
 
